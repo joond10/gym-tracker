@@ -17,7 +17,7 @@ This project is a simple command-line-based application designed to help fitness
   <img src="https://github.com/joond10/gym-tracker/assets/151800537/2e4a2c04-fbe8-4a97-ac59-cc2bb8b55583" alt="Screenshot 4" width="550" height="550"/>  
 
 ## Installation
-Clone the repository: git clone https://github.com/joond10/gym_tracker.git  
+Clone the repository: git clone https://github.com/joond10/gym-tracker.git  
 Navigate to the project directory: cd gym_tracker  
 Compile the program: gcc main.c -o gym_tracker  
 Run the program: ./gym_tracker  
