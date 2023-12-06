@@ -3,7 +3,7 @@
 //////////////////////////////////////
 
 #define MAX_DAYS 7
-#define MAX_EXERCISES 8
+#define MAX_EXERCISES 15
 #define EXERCISE_NAME_LEN 50
 #define WORKOUT_NOTES_LEN 100
 #define MONDAY      "monday.txt"
