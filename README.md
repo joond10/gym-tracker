@@ -27,6 +27,7 @@
 > ### Create:
 >
 > Allows users to create new workout routines for each day of the week. Users can up to 15 exercises with details such as the exercise name, weight, sets, repetitions, and additional notes, which are then saved to specific files representing each day of the week.
+> <br>
 > <img src="assets/create.gif" height="400" alt="add exercise"/>
 
 > ### Read:
@@ -36,6 +37,7 @@
 > ### Update:
 >
 > Ssers have the flexibility to update existing workout routines to adapt to evolving fitness goals. Users can modify exercise details such as weight, sets, repetitions, and notes, ensuring that their workout plans remain up-to-date and tailored to their preferences.
+> <br>
 > <img src="assets/editing.gif" height="400" alt="edit exercise"/>
 
 > ### Delete:
