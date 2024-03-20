@@ -38,12 +38,13 @@
 >
 > ### Delete:
 >
-> Enables users to delete outdated or irrelevant workout routines from their schedule. Users can remove exercises that are no longer part of their fitness regimen, helping to keep their workout plans organized and focused on their current goals.
+> Enables users to delete outdated or irrelevant workout routines from their schedule. Users can remove exercises that are no longer part of their fitness regimen, helping to keep their workout plans organized and focused on their current goals. 
 
 <p align="center">
-  <img src="assets/create.gif" alt="add exercise"/>
-  <img src="assets/edit.gif" alt="edit exercise"/>
-
+  <img src="assets/create.gif" height="400" alt="add exercise"/>
+  <img src="assets/edit.gif" height="400" alt="edit exercise"/>
+  <img src="assets/create.gif" height="400" alt="add exercise"/>
+  <img src="assets/edit.gif" height="400" alt="edit exercise"/>
 </p>
 
 ## Project Challenges
