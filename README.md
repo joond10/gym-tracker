@@ -42,10 +42,10 @@
 
 ### Example functionality
 
-<p align="center">
-<img src="assets/create.gif" height="400" alt="add exercise"/>
-<img src="assets/update.gif" height="400" alt="edit exercise"/>
-<img src="assets/read.gif" height="400" alt="view exercise"/>
+<p >
+<img src="assets/create.gif" height="400" alt="add exercise" style="margin-right: 10px;"/>
+<img src="assets/update.gif" height="400" alt="edit exercise" style="margin-right: 10px;"/>
+<img src="assets/read.gif" height="400" alt="view exercise" style="margin-right: 10px;"/>
 </p>
 
 ## Project Challenges
