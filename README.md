@@ -16,7 +16,7 @@
 
 > ### Build something practical:
 >
-> The primary goal of this project is to deepen my understanding of the C language while creating practical solutions. Inspired by a personal need, I aim to develop an in-depth application akin to a diary, except for workout routines and progess.
+> The primary goal of this project is to deepen my understanding of the C language while creating practical solutions. Inspired by a personal need, I aim to develop an in-depth application akin to a diary, except for workout routines and progress.
 >
 > ### Learn file handling with data structures:
 >
