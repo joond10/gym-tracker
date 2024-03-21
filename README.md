@@ -16,32 +16,33 @@
 
 > ### Build something practical:
 >
-> The primary goal of this project is to deepen my understanding of the C language while creating practical solutions. Inspired by a personal need, I aim to develop an in-depth application akin to a diary, facilitating meticulous tracking of workout experiences and progress.
+> The primary goal of this project is to deepen my understanding of the C language while creating practical solutions. Inspired by a personal need, I aim to develop an in-depth application akin to a diary, except for workout routines and progess.
 >
 > ### Learn file handling with data structures:
 >
-> My introduction to programming left me feeling unsatisfied with the depth of understanding I gained in file handling mechanisms. To improve my skills in data structures, pointers, and file handling, I aim to delve deeper into these concepts through practical application.
+> My introduction to programming left me feeling unsatisfied with the depth of understanding I gained in file handling mechanisms. To improve my skills in data structures, pointers, and file handling, I wish to delve deeper into these concepts through practical application.
 
 ## Features
 
-> ### Create:
+> ### Add:
 >
-> Allows users to create new workout routines for each day of the week. Users can up to 15 exercises with details such as the exercise name, weight, sets, repetitions, and additional notes, which are then saved to specific files representing each day of the week.
+> Allows users to create new workout routines for each day of the week. Users can enter up to 15 exercises with details such as the exercise name, weight, sets, repetitions, and additional notes, which are then saved to specific files representing each day of the week.
 > <br> <img src="assets/create.gif" height="400" alt="add exercise"/>
 
-> ### Read:
->
-> Users can easily view existing workout routines for each day of the week. The program provides a user-friendly interface to visualize and review workout details stored in the respective files corresponding to each day.
->
 > ### Update:
 >
 > Users have the flexibility to update existing workout routines to adapt to evolving fitness goals. Users can modify exercise details such as weight, sets, repetitions, and notes, ensuring that their workout plans remain up-to-date and tailored to their preferences.
-> <br> <img src="assets/editing.gif" height="400" alt="edit exercise"/>
+> <br> <img src="assets/update.gif" height="400" alt="edit exercise"/>
 
 > ### Delete:
 >
 > Enables users to delete outdated or irrelevant workout routines from their schedule. Users can remove exercises that are no longer part of their fitness regimen, helping to keep their workout plans organized and focused on their current goals.
 > <br> <img src="assets/delete.gif" height="400" alt="delete exercise"/>
+
+> ### View:
+>
+> Users can easily view existing workout routines for each day of the week. The program provides a user-friendly interface to visualize and review workout details stored in the respective files corresponding to each day.
+> <br> <img src="assets/read.gif" height="400" alt="view exercise"/>
 
 ## Project Challenges
 
