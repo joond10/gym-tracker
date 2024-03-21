@@ -1,8 +1,8 @@
 # Gym Tracker
 
- <img src="assets/menu-selection.gif" alt="main menu"/>
+ <img src="assets/menu-selection.gif" width="200" alt="main menu"/>
 
-This project is a simple command-line-based application designed to help fitness enthusiasts organize and manage their workout routines. It provides a user-friendly interface for users to view, edit, add, and delete workout routines for each day of the week. It offers a comprehensive solution for individuals looking to maintain a structured and efficient fitness regimen by simplifying the tracking of exercises, weight, sets, repititions and additional notes. The program utilizes a file handling mechanism to store user workout data. Each day of the week corresponds to a file and exercises are stored in these files. This approach ensures that workout progress updates are synchronized and can be retrieved each time the user starts the program.
+> This project is a simple command-line-based application designed to help fitness enthusiasts organize and manage their workout routines. It provides a user-friendly interface for users to view, edit, add, and delete workout routines for each day of the week. It offers a comprehensive solution for individuals looking to maintain a structured and efficient fitness regimen by simplifying the tracking of exercises, weight, sets, repititions and additional notes. The program utilizes a file handling mechanism to store user workout data. Each day of the week corresponds to a file and exercises are stored in these files. This approach ensures that workout progress updates are synchronized and can be retrieved each time the user starts the program.
 
 ## Total Development Period
 
@@ -27,7 +27,7 @@ This project is a simple command-line-based application designed to help fitness
 ### Add:
 
 > Allows users to create new workout routines for each day of the week. Users can enter up to 15 exercises with details such as the exercise name, weight, sets, repetitions, and additional notes, which are then saved to specific files representing each day of the week.
-> <br> <img src="assets/create.gif" height="400" alt="add exercise"/>
+> <br> <img src="assets/create.gif" style="border: 1px solid black;" height="400" alt="add exercise"/>
 
 ### Update:
 
