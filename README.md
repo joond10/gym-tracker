@@ -27,7 +27,7 @@
 ### Add:
 
 > Allows users to create new workout routines for each day of the week. Users can enter up to 15 exercises with details such as the exercise name, weight, sets, repetitions, and additional notes, which are then saved to specific files representing each day of the week.
-> <br> <img src="assets/create.gif" style="border: 1px solid black;" height="400" alt="add exercise"/>
+> <br> <img src="assets/create.gif" style="border: 1px solid white;" height="400" alt="add exercise"/>
 
 ### Update:
 
