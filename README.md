@@ -1,6 +1,6 @@
 # Gym Tracker
 
- <img src="assets/menu-selection.gif" width="200" alt="main menu"/>
+ <img src="assets/main-menu.gif" width="300" alt="main menu"/>
 
 > This project is a simple command-line-based application designed to help fitness enthusiasts organize and manage their workout routines. It provides a user-friendly interface for users to view, edit, add, and delete workout routines for each day of the week. It offers a comprehensive solution for individuals looking to maintain a structured and efficient fitness regimen by simplifying the tracking of exercises, weight, sets, repititions and additional notes. The program utilizes a file handling mechanism to store user workout data. Each day of the week corresponds to a file and exercises are stored in these files. This approach ensures that workout progress updates are synchronized and can be retrieved each time the user starts the program.
 
