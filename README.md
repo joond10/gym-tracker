@@ -50,7 +50,7 @@
 
 ## Project Challenges
 
-> - Making the file operations seamless whilst implementing multiple structs. I ran into data being overwritten or date being read incorrectly often.
+> - Making the file operations seamless whilst implementing multiple structs. I ran into data being overwritten or data being read incorrectly often.
 > - Figuring out how to delete specific exercises while maintaining the integrity of the existing data. This required me to create robust operations that shifted the indices left accordingly.
 
 ## Project Takeaways
